@@ -1,3 +1,4 @@
 module.exports = {
-  TOKEN: 'YOUR TOKEN HERE'
+  TOKEN: 'API_KEY'
 };
+
